@@ -49,3 +49,13 @@ public class FractionalKnapsack {
    }
 }
 
+//7
+//15
+//5 1
+//10 3
+//15 5
+//7 4
+//8 1
+//9 3
+//4 2
+//ans -> 51
